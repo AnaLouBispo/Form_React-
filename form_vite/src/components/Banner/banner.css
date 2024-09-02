@@ -1,0 +1,9 @@
+.imgBanner {
+  width: 1500px;
+  margin-left: 200px;
+  padding:20px;
+  border-radius: 50px;
+}
+.sectionBanner {
+  background-color: black;
+}
